@@ -5,6 +5,7 @@
 - O aluno é um engenheiro de software com quase 30 anos de experiência e está estudando DevOps/SRE.
 - O objetivo é aprender engenharia de IA aplicada: formular problemas, preparar dados, avaliar, integrar e operar modelos em serviços úteis.
 - Casos centrais: assistente de suporte a um sistema e investigação de incidentes com logs do Loki e métricas do Prometheus.
+- A trilha complementar `trilhas/agentes-codex/` ensina uso eficiente de agentes em seis aulas, com 12–18 horas adicionais às 160 horas da trilha principal. O usuário autorizou a criação desse material no mesmo curso.
 - Disponibilidade informada: **4–6 horas por semana**. Familiaridade com Python, estatística e recursos de hardware ainda precisa ser conhecida.
 - Ensinar em português brasileiro, com respeito à experiência profissional do aluno. Explicar fundamentos de IA sem presumir conhecimento prévio dessa área.
 
@@ -35,6 +36,7 @@
 - Perguntar sobre ambiente e orçamento antes de decisões que dependam desses recursos. Não instalar grandes modelos ou contratar serviços por inferência.
 - Manter material pronto separado de conteúdo apenas planejado. Não marcar progresso do aluno a partir de uma execução feita pelo agente.
 - Atualizar `docs/progresso.md` quando o aluno apresentar resultados ou preferências relevantes.
+- O laboratório `laboratorios/agentes-codex/` contém dois defeitos intencionais e dois testes inicialmente falhando. Preservar essa versão como exercício; correções do aluno devem ocorrer na cópia isolada descrita no índice da trilha. Não tratar essas falhas documentadas como regressão do curso.
 - Adicionar dependências somente quando a atividade as exigir; privilegiar exemplos pequenos e inspecionáveis.
 - Consultar fontes primárias ao preparar conteúdo sujeito a mudanças, preservando o limite de links nas aulas.
 - O laboratório local não pressupõe Docker Swarm. Se uma implementação for destinada ao Swarm, aplicar as diretrizes globais fornecidas pelo usuário sobre Traefik/TLS, health checks, IP do cliente e DNS entre stacks.

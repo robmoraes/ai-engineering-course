@@ -8,6 +8,7 @@
 - Casos de interesse: análise de logs do Loki, métricas do Prometheus e chatbot de suporte a sistemas.
 - Disponibilidade: **4–6 horas por semana**.
 - Preferência: aulas autocontidas, poucos hiperlinks, nenhum link no meio da explicação.
+- Interesse adicional confirmado: uso eficiente de agentes autônomos do Codex, como trilha complementar dentro deste curso.
 
 ## Informações ainda a conhecer
 
@@ -35,6 +36,19 @@ Estas informações não impedem a aula 00, que funciona com Python e dados sint
 | 08 | Benchmark de inferência e decisão de adaptação | Planejada |
 | 09 | Serviço implantado com observabilidade e rollback | Planejada |
 | 10 | Demonstração e relatório técnico dos projetos | Planejada |
+
+## Trilha complementar de agentes com Codex
+
+As seis aulas e o laboratório estão disponíveis. A carga adicional estimada é de 12–18 horas. O aluno ainda não apresentou entregas desta trilha; a validação feita durante a autoria não representa progresso do aluno.
+
+| Aula | Evidência esperada | Estado |
+| --- | --- | --- |
+| A1 | Tarefa delimitada e investigação com evidências | A iniciar |
+| A2 | Instruções persistentes na cópia do laboratório | A iniciar |
+| A3 | Escopo de autonomia e permissões explicado | A iniciar |
+| A4 | Correção conferida com testes e cálculo manual | A iniciar |
+| A5 | Revisão coordenada e análise do esforço | A iniciar |
+| A6 | Recurso entregue e revisão não interativa | A iniciar |
 
 ## Diário de uma sessão
 

@@ -213,6 +213,16 @@ Os fundamentos de armazenamento e busca virão antes da escolha de um banco veto
 
 Avaliação, autorização de acesso e controle de custo acompanham os projetos desde o início. O módulo de operação reúne e aprofunda essas práticas.
 
+## Trilha complementar de agentes com Codex
+
+O curso também inclui seis aulas sobre uso eficiente de agentes de engenharia: delegação, contexto e instruções, autonomia e permissões, revisão com evidências, subagentes e fluxo completo com automação. Elas usam o mesmo laboratório progressivamente, em uma cópia isolada, e possuem exercícios e critérios próprios.
+
+A carga de 12–18 horas é adicional às 160 horas acima. A sugestão é fazer as duas primeiras aulas depois da aula 00 e encaixar as demais no ritmo semanal. O foco é aprender a conduzir trabalho de engenharia com agentes; construir agentes como parte dos produtos continua no percurso principal de LLMs e ferramentas.
+
+## Navegação
+
+- [Trilha complementar de agentes com Codex](../trilhas/agentes-codex/README.md)
+
 ## Leituras opcionais de referência
 
 Não é necessário abrir estas fontes agora. Elas sustentam a preparação das aulas e serão apresentadas em trechos delimitados quando os temas aparecerem.

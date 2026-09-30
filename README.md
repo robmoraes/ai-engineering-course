@@ -38,6 +38,14 @@ Os projetos evoluem durante o curso. Regras e estatística serão referências d
 
 Texto, tabelas, logs e séries temporais recebem prática aprofundada. Imagens, áudio e documentos com layout entram como extensão do mesmo método: representar os dados, definir uma tarefa, avaliar erros e operar a solução. Especializações nessas modalidades exigem estudo adicional.
 
+## Trilha complementar de agentes com Codex
+
+Seis aulas práticas ensinam a delegar tarefas, preparar contexto, delimitar autonomia, revisar entregas, coordenar subagentes e automatizar uma revisão. O exercício usa um programa pequeno com defeitos intencionais, em uma cópia isolada para estudo.
+
+A carga adicional é de **12–18 horas**. A trilha principal mantém suas 160 horas; a estimativa para ambas é de 172–178 horas. As duas primeiras aulas complementares podem ser feitas após a aula 00, e as seguintes podem ser distribuídas conforme seu ritmo.
+
+- [Começar a trilha de agentes com Codex](trilhas/agentes-codex/README.md)
+
 ## Comece por aqui
 
 - [Aula 00 — Do problema à primeira avaliação](aulas/00-do-problema-a-avaliacao.md)
@@ -56,6 +64,6 @@ O laboratório usa apenas a biblioteca padrão do Python e dados sintéticos. N�
 
 ## Estado do material
 
-Estão disponíveis o plano do curso, os requisitos dos projetos e a aula 00 com laboratório executável. As demais etapas têm objetivos, atividades e critérios definidos no plano; suas aulas e implementações serão desenvolvidas conforme o avanço e as dúvidas do aluno. Os dois projetos completos ainda serão construídos.
+Estão disponíveis o plano do curso, os requisitos dos projetos, a aula 00 com laboratório executável e as seis aulas da trilha complementar de agentes com Codex. As demais etapas da trilha principal têm objetivos, atividades e critérios definidos no plano; suas aulas e implementações serão desenvolvidas conforme o avanço e as dúvidas do aluno. Os dois projetos completos ainda serão construídos.
 
 O destino é uma experiência de operação verificável: avaliação, implantação reproduzível, monitoramento, limites de custo, tratamento de falhas e rollback. A passagem para um sistema real exige validação com os dados e as restrições daquele ambiente.
